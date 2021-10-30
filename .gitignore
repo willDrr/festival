@@ -6,7 +6,7 @@
 
 # ignore
 .env
-reminder.txt
+reminder_book.txt
 
 # Ignore bundler config.
 /.bundle
